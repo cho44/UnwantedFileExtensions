@@ -69,5 +69,4 @@ config
 resources
 pdb
 manifest
-mp3
 wma
